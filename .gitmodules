@@ -1,0 +1,15 @@
+[submodule "microeureka"]
+	path = microeureka
+	url = git@github.com:maoyuanli/microeureka.git
+[submodule "microzuul"]
+	path = microzuul
+	url = git@github.com:maoyuanli/microzuul.git
+[submodule "microconfig"]
+	path = microconfig
+	url = git@github.com:maoyuanli/microconfig.git
+[submodule "microuser"]
+	path = microuser
+	url = git@github.com:maoyuanli/microuser.git
+[submodule "micronasdaq"]
+	path = micronasdaq
+	url = git@github.com:maoyuanli/micronasdaq.git
